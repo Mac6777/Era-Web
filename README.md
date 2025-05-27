@@ -1,6 +1,6 @@
 # **Era-Web V2**
 
-# **Official Era Login Authentication Page – Renewed UI, CSS, and Enhancements by WakBowJO**
+*Official Era Login Authentication Page – Renewed UI, CSS, and Enhancements by WakBowJO*
 
 ---
 
